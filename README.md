@@ -1,7 +1,8 @@
 # ICLR Reproducibility Challenge 2019
 
 Reproducibility Report: [ Issue on Github ](https://github.com/reproducibility-challenge/iclr_2019/issues/91?fbclid=IwAR3fX_jrgU6VryLYCkpfVwXAcMuUsiKTo_mLq_5zaZBr0BBifDy9SFUln3Y)
-Paper: [Paper | OpenReview ](https://openreview.net/forum?id=H1lGHsA9KX)
+Original Paper: [ OpenReview ](https://openreview.net/forum?id=H1lGHsA9KX)
+Our submission: [ OpenReview ](https://openreview.net/forum?id=SJlGaRBJMN)
 
 The CNN for MNIST is described in `neuralNetwork.py`, and for CIFAR 10 in `neuralNetworkCIFAR.py`.
 
